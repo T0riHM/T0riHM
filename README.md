@@ -12,4 +12,4 @@ t0ri28
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/59/21/e459217bfe56c7b11aee723882ad5e00.gif">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=T0riHM&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false)" alt="t0rihm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t0rihm&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false)" alt="t0rihm" /></p>
