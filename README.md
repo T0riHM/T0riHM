@@ -10,6 +10,6 @@ I’m currently learning newthings
 t0ri28
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/84/99/20/849920535e6d09e5445cdaac5ab16803.gif">
+<img align="right" alt="Coding" width="223" src="https://i.pinimg.com/originals/e4/59/21/e459217bfe56c7b11aee723882ad5e00.gif">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t0rihm&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false)" alt="t0rihm" /></p>
