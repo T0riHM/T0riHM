@@ -12,8 +12,4 @@ I’m currently learning newthings
 t0ri28
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=t0rihm&show_icons=true&locale=en&layout=compact" alt="t0rihm" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t0rihm&show_icons=true&locale=en" alt="t0rihm" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t0rihm&" alt="t0rihm" /></p>
