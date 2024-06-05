@@ -1,6 +1,6 @@
-<img src="https://count.getloli.com/get/@t0rihm" alt="t0rihm" />
+<img src="https://count.getloli.com/get/@t0rihm"/>
 
-Hi, Feel useful? Please consider sponsoring or star my repositories <3
+Hi, Feel useful? Please consider star my repositories <3
 
 I’m currently learning newthings
 
